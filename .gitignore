@@ -1,0 +1,19 @@
+# Azure Function specifics
+__blobstorage__
+__queuestorage__
+__azurite_db*__.json
+local.settings.json
+
+# Node and Typescript basics
+node_modules/
+jspm_packages/
+dist
+package-lock.json
+.env
+.env.test
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
