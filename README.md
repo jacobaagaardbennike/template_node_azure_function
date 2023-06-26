@@ -8,7 +8,7 @@ Follow these steps:
 
 1. npm install
 2. rename local.settings.json.example to local.settings.json
-3. npm start
+3. npm run dev
 
 # Build and Test
 
